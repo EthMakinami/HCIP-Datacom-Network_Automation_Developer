@@ -10,7 +10,7 @@ configure S5720:
 
     <Quidway>sys
     [Quidway]int vlan1
-    [Quidway]ip add 192.168.56.100 24
+    [Quidway]ip add 1.1.1.1 24
     [Quidway]quit
 
 Test connectivity:
